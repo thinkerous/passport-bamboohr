@@ -1,10 +1,10 @@
 {
-  "name": "passport-local",
-  "version": "1.0.0",
-  "description": "Local username and password authentication strategy for Passport.",
+  "name": "passport-bamboohr",
+  "version": "0.0.1",
+  "description": "Bamboohr authentication strategy for Passport.",
   "keywords": [
     "passport",
-    "local",
+    "bamboohr",
     "auth",
     "authn",
     "authentication",
@@ -12,16 +12,16 @@
     "password"
   ],
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "Aaron Zhang",
+    "email": "aaron@thinkero.us",
+    "url": "http://www.thinkero.us/"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-local.git"
+    "url": "git://github.com/thinkerous/passport-bamboohr.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-local/issues"
+    "url": "http://github.com/thinkerous/passport-bamboohr/issues"
   },
   "licenses": [
     {
